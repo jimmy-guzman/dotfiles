@@ -1,0 +1,50 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.colorDecorators": false,
+  "editor.fontSize": 11,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "files.useExperimentalFileWatcher": true,
+  "prettier.statusBar": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "files.associations": {
+    "*.tag": "html"
+  },
+  "standard.options": {
+    "plugins": ["html"]
+  },
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "html"
+    }
+  ],
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.spaceBeforeFunctionParen": true,
+  "prettier.bracketSpacing": false,
+  "prettier.arrowParens": false,
+  "prettier.printWidth": 100,
+  "prettier.jsonEnable": ["json"],
+  "workbench.colorCustomizations": {
+    "[Material Theme]": {
+      "sideBar.border": "#2B3940",
+      "panel.border": "#2B3940",
+      "activityBar.border": "#2B3940",
+      "statusBar.border": "#2B3940"
+    }
+  },
+  "window.zoomLevel": 0
+}
