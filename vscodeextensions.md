@@ -15,3 +15,5 @@
 * [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 * [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 * [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+* [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)
