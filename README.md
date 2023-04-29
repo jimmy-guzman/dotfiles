@@ -7,3 +7,9 @@
 ### Homebrew
 
 - `brew bundle`
+
+### Symlinks
+
+```
+ln -s -f ~/Repos/dotfiles/.zshrc ~/.zshrc
+```
