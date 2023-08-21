@@ -23,6 +23,7 @@ eval "$(starship init zsh)"
 # alias start
 alias h='history | grep '
 alias pn=pnpm
+alias autoSetupRemote="git config --local --add --bool push.autoSetupRemote true"
 # alias end
 
 # bun start
