@@ -20,11 +20,12 @@ eval "$(fnm env --use-on-cd)"
 eval "$(starship init zsh)"
 # startship end
 
-# alias start
+# aliases start
 alias h='history | grep '
 alias pn=pnpm
-alias autoSetupRemote="git config --local --add --bool push.autoSetupRemote true"
-# alias end
+alias g="git "
+alias refresh='source ~/.zshrc'
+# aliases end
 
 # bun start
 [ -s "~/.bun/_bun" ] && source "~/.bun/_bun"
