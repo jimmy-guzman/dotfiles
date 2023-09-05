@@ -40,4 +40,5 @@ export FORCE_COLOR=1
 
 # zoxide start
 eval "$(zoxide init zsh)"
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 # zoxide end
